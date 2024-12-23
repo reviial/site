@@ -1,0 +1,258 @@
+ .u-section-1 {
+  background-position: 50% 50%, 50% 50%;
+  background-repeat: no-repeat, no-repeat;
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/oneshot_refuge_wallpaper.png');
+  background-size: cover, cover;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 978px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: solid;
+  margin: 41px auto 0;
+  padding: 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 139px;
+  height: 139px;
+  margin: 27px auto 0 495px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: GoogleSans-Regular-2;
+  font-weight: 700;
+  font-size: 1.25rem;
+  width: 201px;
+  margin: 14px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: GoogleSans-Regular-2;
+  width: 76px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: GoogleSans-Regular-2;
+  font-weight: 700;
+  font-size: 1.875rem;
+  margin: 33px auto 0 95px;
+}
+
+.u-section-1 .u-text-4 {
+  font-family: GoogleSans-Regular-2;
+  margin: 1px auto 0 95px;
+}
+
+.u-section-1 .u-text-5 {
+  font-family: GoogleSans-Regular-2;
+  margin: 17px auto 0 95px;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  border-style: solid;
+  margin: 0 auto 0 95px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-3 {
+  background-image: none;
+  border-style: solid;
+  margin: -28px auto 0 157px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-4 {
+  background-image: none;
+  border-style: solid;
+  margin: -27px auto 60px 205px;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 806px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 117px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -49px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-top: 20px;
+    margin-bottom: 18px;
+    margin-left: 5px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 946px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 27px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 11px;
+    margin-left: 283px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-right: -322px;
+    margin-left: 322px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 10px;
+    margin-left: 33px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-top: 0;
+    margin-left: 33px;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: auto;
+    margin-top: 21px;
+    margin-left: 33px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 33px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-left: 94px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-top: -27px;
+    margin-bottom: 60px;
+    margin-left: 141px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 710px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 103px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -64px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-top: 20px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-top: 20px;
+    margin-bottom: -230px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 981px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 17px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 7px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 12px;
+    margin-right: 73px;
+    margin-left: 101px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 1px;
+    margin-right: 125px;
+    margin-left: 146px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 33px;
+    margin-left: 21px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: -4px;
+    margin-left: 21px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-top: 17px;
+    margin-left: 21px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 1px;
+    margin-left: 21px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-top: -28px;
+    margin-left: 84px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-top: -27px;
+    margin-bottom: 60px;
+    margin-left: 133px;
+  }
+}@font-face {
+  font-family: 'GoogleSans-Regular-2';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/GoogleSans-Regular-2.ttf);
+}
